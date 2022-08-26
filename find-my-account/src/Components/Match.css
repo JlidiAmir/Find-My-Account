@@ -1,0 +1,46 @@
+.matches-container{
+    display: block;
+    position: relative;
+    margin-top: 290px;
+    border-color: black;
+    /* border-style: solid; */
+    /* padding-top: 500px; */
+}
+.match-container{
+    display: flex;
+    margin: 20px;
+    border-style: ridge;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: #6200ee;
+}
+.champ-icon{
+    margin-right: 30px;
+}
+.kda-container{
+    display: inline-block;
+    margin-right: 40px;
+    padding: 20px;
+    /* border-style: solid; */
+}
+.build-container{
+    display: inline-block;
+    margin-right: 40px;
+    /* border-style: solid; */
+    padding-top: 10px;
+
+}
+.items-container{
+    display: inline-block;
+    margin-right: 40px;
+    /* border-style: solid; */
+    padding-top: 10px;
+
+}
+.teammates-container{
+    display: inline-block;
+    margin-right: 40px;
+    /* border-style: solid; */
+    padding-top: 10px;
+
+}

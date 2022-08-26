@@ -1,0 +1,19 @@
+.summoner-card{
+    display:block;
+    position: absolute;
+    top: -50px;
+    left: 350px;
+    margin: 100px;
+    border-radius: 10px;
+    padding: 50px;
+    background-color: #6200ee;
+}
+.summoner-icon{
+    width: 200px;
+}
+.summoner-name{
+    font-weight: bold;
+}
+.summoner-level{
+    font-weight: bold;
+}

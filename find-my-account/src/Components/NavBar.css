@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    background-color: #6200ee;
+    border-style: solid;
+    border-width: 2px ; 
+    border-color: blue;
+}
+.logo-title {
+    padding-top: 40px;
+    font-weight: bold;
+    font-style: inherit;
+}
+.region-title {
+    padding-top: 40px;
+    padding-left: 800px;
+    font-weight:bold;
+}
+.mode-selector {
+    border-width: 0;
+    background-color: #6200ee;
+    padding: 40px;
+    font-weight:bolder;
+    
+}

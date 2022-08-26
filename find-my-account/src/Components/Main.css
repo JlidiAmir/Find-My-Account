@@ -1,0 +1,11 @@
+main {
+    position: relative;
+    padding-bottom: 1000px;
+   
+}
+.light-mode{
+    background-color: white;
+}
+.dark-mode{
+    background-color: #282c34;
+}

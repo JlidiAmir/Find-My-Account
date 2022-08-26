@@ -1,0 +1,14 @@
+.not-found-container{
+    background-color: #6200ee ;
+    border: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-color: grey;
+    border-style:ridge;
+    border-width: 5px;
+    border-radius: 20px;
+    padding: 100px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+}
